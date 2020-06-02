@@ -1,0 +1,11 @@
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

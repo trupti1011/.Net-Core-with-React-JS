@@ -1,0 +1,12 @@
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\trupti_p\Desktop\.net Core with React JS\AspNetCoreReactRedux\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
